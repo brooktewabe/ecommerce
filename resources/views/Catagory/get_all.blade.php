@@ -10,7 +10,7 @@
  <div class="col-md-8">
  <div class="card">
  <div class="card-header">
- {{ __('PRODUCT LIST') }}
+ {{ __('CATAGORY LIST') }}
  </div>
  <div class="card-body">
  <table class="table table-striped table-bordered ">
